@@ -8,3 +8,7 @@
 
 ## RESET BUTTON
 the reset button does not work, we are still figuring out why this is the case.
+
+
+## PREBUILD
+alternatively, you can transfer 'build.apk' to the Oculus Quest 2
